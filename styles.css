@@ -57,7 +57,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 90%;
-    max-width: 300px; /* Adatto per video verticale */
+    max-width: 350px; /* Adatto per video verticale */
     z-index: 1;
 }
 
